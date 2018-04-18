@@ -5,6 +5,7 @@
  */
 
 import React, { Component } from 'react';
+import Analytics from 'appcenter-analytics';
 import {
   Platform,
   StyleSheet,
@@ -21,6 +22,13 @@ const instructions = Platform.select({
 
 type Props = {};
 export default class App extends Component<Props> {
+
+  constructor(props) {
+    super(props);
+    Analytics.trackEvent('Loaded');
+    throw new Error('This is a test javascript crash!');
+  }
+
   render() {
     return (
       <View style={styles.container}>

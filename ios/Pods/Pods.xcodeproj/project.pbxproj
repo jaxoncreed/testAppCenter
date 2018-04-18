@@ -23,20 +23,21 @@
 		13D0726854A5ADA94CBB13CDB082F504 /* Pods-gaugeTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-gaugeTests-dummy.m"; sourceTree = "<group>"; };
 		1425D1D7BC33C52D6519F559C255292C /* libPods-gauge-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-gauge-tvOSTests.a"; path = "libPods-gauge-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A84403A23DB82EE2B5461BF1F9D7322 /* Pods-gauge-tvOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-gauge-tvOSTests-frameworks.sh"; sourceTree = "<group>"; };
+		1FF8CBE3D70C3B5EE02BF7F1402952A2 /* AppCenterCrashes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterCrashes.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterCrashes.framework"; sourceTree = "<group>"; };
 		20A38A9A18337CBD3C04EEE9F60093E5 /* Pods-gaugeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-gaugeTests.debug.xcconfig"; sourceTree = "<group>"; };
 		25722A6FB34A0382CFBF5BDEC5065CDA /* Pods-gauge-tvOSTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-gauge-tvOSTests-resources.sh"; sourceTree = "<group>"; };
 		28A02ADCA99243E23B5292AB83B013EC /* Pods-gauge-tvOS-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-gauge-tvOS-frameworks.sh"; sourceTree = "<group>"; };
 		2D154F4805B9715F0E6D79B0363CE280 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		2ED9598388B42B2025F8529A5EEBD4A2 /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/iOS/AppCenter.framework"; sourceTree = "<group>"; };
+		2E280B58529AEBA76B5F11C0705D0856 /* AppCenterReactNativeShared.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterReactNativeShared.framework; path = AppCenterReactNativeShared/AppCenterReactNativeShared.framework; sourceTree = "<group>"; };
 		380B28E1D7DEBD3D77FCE4E24B1105BE /* Pods-gaugeTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-gaugeTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3BC05C1274886DE9842DE83946168A62 /* Pods-gaugeTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-gaugeTests-frameworks.sh"; sourceTree = "<group>"; };
 		3C0AC106D9B9FF35817808F617461288 /* Pods-gauge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-gauge.release.xcconfig"; sourceTree = "<group>"; };
 		4297D076A596495B1F75DDB148C36728 /* Pods-gauge-tvOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-gauge-tvOS-dummy.m"; sourceTree = "<group>"; };
 		476CFB05619A04F7D79CD3367D4925A7 /* Pods-gaugeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-gaugeTests.release.xcconfig"; sourceTree = "<group>"; };
 		51272C855C2145778CDC261766153A32 /* Pods-gaugeTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-gaugeTests-resources.sh"; sourceTree = "<group>"; };
-		5128F46A11B119351F476C7DD4AAE3E4 /* AppCenterReactNativeShared.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterReactNativeShared.framework; path = AppCenterReactNativeShared/AppCenterReactNativeShared.framework; sourceTree = "<group>"; };
 		572DBE63D5360AB71E5F80F979738FD0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS10.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		57FE6B1A0DCB42B12517E6EBED356A18 /* libPods-gauge.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-gauge.a"; path = "libPods-gauge.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		697057EB6F6A315777E7EA941A2AAF3B /* AppCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterAnalytics.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterAnalytics.framework"; sourceTree = "<group>"; };
 		73B4E778C3BFF085A00C18264C468BA8 /* Pods-gauge-tvOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-gauge-tvOS-acknowledgements.plist"; sourceTree = "<group>"; };
 		74655D96D25334D8165E10F639C1B0D8 /* Pods-gauge-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-gauge-dummy.m"; sourceTree = "<group>"; };
 		7856BF9397B37A2E2020CADCB51BF271 /* libPods-gaugeTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-gaugeTests.a"; path = "libPods-gaugeTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -53,6 +54,7 @@
 		BDC23184AE7BC3B4CAA480EE9AC70E6E /* Pods-gauge-tvOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-gauge-tvOS-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C9857B0D5182104D0F8303A8DF9DF463 /* Pods-gauge-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-gauge-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		D39137FA3B8E663844AD92DA48E371A4 /* Pods-gauge-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-gauge-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		DC65AFFB7964130E42157D207BE3A6DE /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/iOS/AppCenter.framework"; sourceTree = "<group>"; };
 		E6033E857DE7AEC97E37BF0E319802A9 /* Pods-gauge-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-gauge-frameworks.sh"; sourceTree = "<group>"; };
 		F3067FEA260A2371758E2DFD3D26C797 /* Pods-gauge-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-gauge-resources.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,10 +95,10 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		084F8754CADD03D95E10FAD4902E445E /* Frameworks */ = {
+		0C0416FA3744ECAB6C76E95960896084 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				5128F46A11B119351F476C7DD4AAE3E4 /* AppCenterReactNativeShared.framework */,
+				DC65AFFB7964130E42157D207BE3A6DE /* AppCenter.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -124,13 +126,36 @@
 			name = tvOS;
 			sourceTree = "<group>";
 		};
-		4A1B657DA6733FDFE6BEBD089CE1D601 /* Pods */ = {
+		2299AF501E253B95F2AE1FAD00A3B182 /* Crashes */ = {
 			isa = PBXGroup;
 			children = (
-				FD0616D0E8D3AF99A06372DF9D9C747A /* AppCenter */,
-				EAD746AE39BEE1D0267C9F133325ED44 /* AppCenterReactNativeShared */,
+				4789B2888C9F3A64D9BB98A64504484B /* Frameworks */,
 			);
-			name = Pods;
+			name = Crashes;
+			sourceTree = "<group>";
+		};
+		260E672E181DB8BDAC7A2999772A7AE4 /* Analytics */ = {
+			isa = PBXGroup;
+			children = (
+				8E2C96EA6162ABA11EBE8E8817909062 /* Frameworks */,
+			);
+			name = Analytics;
+			sourceTree = "<group>";
+		};
+		2D20FC01AE47C04E62202F456C8DC21D /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				0C0416FA3744ECAB6C76E95960896084 /* Frameworks */,
+			);
+			name = Core;
+			sourceTree = "<group>";
+		};
+		4789B2888C9F3A64D9BB98A64504484B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1FF8CBE3D70C3B5EE02BF7F1402952A2 /* AppCenterCrashes.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		58996781A54EE964D7111D73083A18A5 /* iOS */ = {
@@ -141,31 +166,23 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		5F5868CECEF7492F31537F201885EC0A /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				2ED9598388B42B2025F8529A5EEBD4A2 /* AppCenter.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				A42F72DC1D780481325DD00969B19BB6 /* Frameworks */,
-				4A1B657DA6733FDFE6BEBD089CE1D601 /* Pods */,
+				B1C0FD4C526B54B6F7B5EA76C32A7B4C /* Pods */,
 				B1F1CEDA253FF0B17BBA2D8E49C1B50F /* Products */,
 				E5DAA8D46AE509BA442E4E34DC7EFBD4 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		9CA3EEA9A5D9914710449AD90DBDC294 /* Core */ = {
+		8E2C96EA6162ABA11EBE8E8817909062 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				5F5868CECEF7492F31537F201885EC0A /* Frameworks */,
+				697057EB6F6A315777E7EA941A2AAF3B /* AppCenterAnalytics.framework */,
 			);
-			name = Core;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		A42F72DC1D780481325DD00969B19BB6 /* Frameworks */ = {
@@ -190,6 +207,15 @@
 			);
 			name = "Pods-gauge-tvOS";
 			path = "Target Support Files/Pods-gauge-tvOS";
+			sourceTree = "<group>";
+		};
+		B1C0FD4C526B54B6F7B5EA76C32A7B4C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D6F4E16E170AFF42D929EF8FFF92078F /* AppCenter */,
+				FDE42022E7C36FE2A980950DD051F732 /* AppCenterReactNativeShared */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		B1F1CEDA253FF0B17BBA2D8E49C1B50F /* Products */ = {
@@ -218,6 +244,17 @@
 			path = "Target Support Files/Pods-gauge-tvOSTests";
 			sourceTree = "<group>";
 		};
+		D6F4E16E170AFF42D929EF8FFF92078F /* AppCenter */ = {
+			isa = PBXGroup;
+			children = (
+				260E672E181DB8BDAC7A2999772A7AE4 /* Analytics */,
+				2D20FC01AE47C04E62202F456C8DC21D /* Core */,
+				2299AF501E253B95F2AE1FAD00A3B182 /* Crashes */,
+			);
+			name = AppCenter;
+			path = AppCenter;
+			sourceTree = "<group>";
+		};
 		E5DAA8D46AE509BA442E4E34DC7EFBD4 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -229,13 +266,12 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		EAD746AE39BEE1D0267C9F133325ED44 /* AppCenterReactNativeShared */ = {
+		F84ACEF4E4D3666C3A595115D01D3868 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				084F8754CADD03D95E10FAD4902E445E /* Frameworks */,
+				2E280B58529AEBA76B5F11C0705D0856 /* AppCenterReactNativeShared.framework */,
 			);
-			name = AppCenterReactNativeShared;
-			path = AppCenterReactNativeShared;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		FA5B0000CDF0CB835AF1DD5514F4B10F /* Pods-gauge */ = {
@@ -253,13 +289,13 @@
 			path = "Target Support Files/Pods-gauge";
 			sourceTree = "<group>";
 		};
-		FD0616D0E8D3AF99A06372DF9D9C747A /* AppCenter */ = {
+		FDE42022E7C36FE2A980950DD051F732 /* AppCenterReactNativeShared */ = {
 			isa = PBXGroup;
 			children = (
-				9CA3EEA9A5D9914710449AD90DBDC294 /* Core */,
+				F84ACEF4E4D3666C3A595115D01D3868 /* Frameworks */,
 			);
-			name = AppCenter;
-			path = AppCenter;
+			name = AppCenterReactNativeShared;
+			path = AppCenterReactNativeShared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
